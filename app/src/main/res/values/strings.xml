@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Study Time</string>
+    <string-array name="repeat_options">
+        <item>None</item>
+        <item>Daily</item>
+        <item>Every weekday (Mon-Fri)</item>
+        <item>Weekly</item>
+        <item>Every 2 Weeks</item>
+        <item>Monthly</item>
+    </string-array>
+</resources>
