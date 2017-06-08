@@ -1,5 +1,5 @@
 # Calendar
-Android calendar application that allows users to create, edit, and delete events. Implements functionality to the calendar view from https://github.com/tyczj/ExtendedCalendarView
+Android calendar application that allows users to create, edit, and delete events. Implements functionality to the calendar view from https://github.com/tyczj/ExtendedCalendarView. Full commit history [here](https://bitbucket.org/studytime/study-time/commits/all).
 
 # Screenshots
 ![Screenshot_2016-09-11-15-51-42.png](https://bitbucket.org/repo/9abpX4/images/780030093-Screenshot_2016-09-11-15-51-42.png)
